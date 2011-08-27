@@ -1,5 +1,9 @@
 # this is pre-release, alpha. just saying.
 
+## Installation
+
+- npm install line-parser
+
 ## Overview
 
 line-parser takes a stream of "chunks" and outputs full lines (as delimited by \n) as events.
