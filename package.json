@@ -2,8 +2,8 @@
   "author": "Mike Thomas <mbthomas@gmail.com>",
   "name": "line-parser",
   "description": "A simple class to parse chunks of data into lines.",
-  "version": "0.0.0",
-  "main": "./line-parser"
+  "version": "0.1.0",
+  "main": "./line-parser.js",  
   "repository": {
     "url": ""
   },
