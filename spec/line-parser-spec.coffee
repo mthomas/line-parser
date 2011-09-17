@@ -35,6 +35,7 @@ describe "Line parser", ->
     it "should convert three newlines into three blank lines", ->
       parser.chunk "\n\n\n"
       expect(lines).toEqual(["", "", ""])
+      
   describe "parsing multiple lines", ->
     
     verify = (chunks, expectedLines) ->

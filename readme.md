@@ -29,8 +29,8 @@ myParser.chunk(" from this excercise.");
 
 ## Global dependancies for building/testing
 
-- jasmine-node
-- coffee-script
+- jasmine-node (npm install jasmine-node -g)
+- coffee-script (npm install coffee-script -g)
 
 ## To run tests
 
