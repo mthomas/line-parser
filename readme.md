@@ -20,7 +20,7 @@ myParser.on("line", function(line){
 
 myParser.chunk("This is not a ");
 myParser.chunk("line until we see a newline.\nSo we will only get two lines emitted");
-myParser.chunk(" from this excercise.");
+myParser.chunk(" from this excercise.\n");
 
 #will output
 #This is not a line until we se a newline.
